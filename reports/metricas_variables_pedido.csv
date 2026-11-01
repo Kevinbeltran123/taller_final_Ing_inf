@@ -1,6 +1,0 @@
-modelo,hiperparametro,f1_satisfecho,f1_insatisfecho,supera_umbral
-Decision Tree,max_depth=5,0.87,0.51,False
-Random Forest,n_estimators=200,0.832,0.496,False
-KNN,n_neighbors=51,0.845,0.504,False
-Regresión logística,C=0.1,0.829,0.495,False
-MLP,"hidden_layer_sizes=(10,)",0.83,0.499,False
